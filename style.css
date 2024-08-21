@@ -73,3 +73,9 @@ main {
     margin-bottom: 10px;
 }
 
+@media(max-width:600px) {
+    .countries-container {
+        display: flex;
+        justify-content: center;
+    }
+}
